@@ -1,6 +1,8 @@
 # Media_Alunos_Vetores
 Exercício para calcular media de alunos em cada sala
 ------------------------------------------------------
+# ALGORITMO DO EXERCÍCIO
+
 Inicio
 
     1. C == 1
