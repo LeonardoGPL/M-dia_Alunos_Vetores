@@ -10,10 +10,10 @@ Inicio
     3. Enquanto C <= 6 Faça
     4.  Ler(Q[C])
     5. Soma <- Soma+ Q[C]
-    6. C <- C + 1
+    6. C = C + 1
     7 Fim enquanto
     8. Media <- Soma/6
-    9. Exibir ('A média é',Media)
+    9. Exibir ('A média é', Media)
 
 Fim
 
